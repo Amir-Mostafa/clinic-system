@@ -1,0 +1,12 @@
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\bin\x64\Release\project_file.exe.config
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\obj\x64\Release\project_file.csprojResolveAssemblyReference.cache
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\obj\x64\Release\project_file.add_pationt.resources
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\obj\x64\Release\project_file.add_user.resources
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\obj\x64\Release\project_file.Form1.resources
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\obj\x64\Release\project_file.Form2.resources
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\obj\x64\Release\project_file.login_form.resources
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\obj\x64\Release\project_file.oppereations.resources
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\obj\x64\Release\project_file.pationts.resources
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\obj\x64\Release\project_file.users.resources
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\obj\x64\Release\project_file.form_print.resources
+D:\projects amir mostafa2\برنامج العياده مشروع ماده الفايل\project_file\project_file\obj\x64\Release\project_file.csproj.GenerateResource.Cache
